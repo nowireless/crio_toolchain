@@ -1,0 +1,18 @@
+[submodule "frc-buildscripts"]
+	path = frc-buildscripts
+	url = https://github.com/rbmj/frc-buildscripts.git
+[submodule "wrs-headers"]
+	path = wrs-headers
+	url = https://github.com/rbmj/wrs-headers.git
+[submodule "wrs-headers-installer"]
+	path = wrs-headers-installer
+	url = https://github.com/rbmj/wrs-headers-installer.git
+[submodule "ppc-vxworks-binutils"]
+	path = ppc-vxworks-binutils
+	url = https://github.com/rbmj/ppc-vxworks-binutils.git
+[submodule "ppc-vxworks-gcc"]
+	path = ppc-vxworks-gcc
+	url = https://github.com/rbmj/ppc-vxworks-gcc.git
+[submodule "wpilib"]
+	path = wpilib
+	url = https://github.com/rbmj/wpilib.git
